@@ -9,7 +9,8 @@
 		"en": "Real-time problem & outage monitoring",
 		"nl": "Real-time probleem- en uitvalbewaking"
 	},
-	"url": "downdetector.com",
+	"url": "www.downdetector.com",
+	"regExp": "www[.]downdetector([.][a-z]+)+[/]",
 	"version": "1.2.19",
 	"logo": "https://cdn.rcd.gg/PreMiD/websites/D/Downdetector/assets/logo.png",
 	"thumbnail": "https://cdn.rcd.gg/PreMiD/websites/D/Downdetector/assets/thumbnail.png",
